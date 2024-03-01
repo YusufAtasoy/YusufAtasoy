@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YusufAtasoy
 - 👀 I’m interested in HTML,CSS,JS
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML,Css,C#,Unity
 - 💞️ I’m looking to collaborate on İNTEL
 - 📫 How to reach me: yusufatasoy100@gmail.com
 
